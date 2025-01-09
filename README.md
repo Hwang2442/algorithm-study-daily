@@ -10,11 +10,16 @@
   - **programmers**
     <details>
       <summary>Level 0</summary>
+      
+      - [연속된 수의 합](https://school.programmers.co.kr/learn/courses/30/lessons/120923)
+      - [겹치는 선분의 길이](https://school.programmers.co.kr/learn/courses/30/lessons/120876)
+
     </details>
     <details>
       <summary>Level 1</summary>
       
       - [가장 많이 받은 선물](https://school.programmers.co.kr/learn/courses/30/lessons/258712)
+      - [[PCCP 기출문제] 1번 / 동영상 재생기](https://school.programmers.co.kr/learn/courses/30/lessons/340213)
       - [신고 결과 받기](https://school.programmers.co.kr/learn/courses/30/lessons/92334)
       - [[PCCP 기출문제] 1번 / 붕대 감기](https://school.programmers.co.kr/learn/courses/30/lessons/250137)
       - [공원 산책](https://school.programmers.co.kr/learn/courses/30/lessons/172928)
@@ -37,6 +42,7 @@
       - [숫자 문자열과 영단어](https://school.programmers.co.kr/learn/courses/30/lessons/81301)
       - [푸드 파이트 대회](https://school.programmers.co.kr/learn/courses/30/lessons/134240)
       - [가장 가까운 같은 글자](https://school.programmers.co.kr/learn/courses/30/lessons/142086)
+
     </details>
 
 ## Links
