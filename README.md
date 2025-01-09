@@ -8,7 +8,9 @@
 
 ## Solved
   - **programmers**
-    - Level 1
+    <details>
+      <summary>Level 1</summary>
+      
       - [가장 많이 받은 선물](https://school.programmers.co.kr/learn/courses/30/lessons/258712)
       - [신고 결과 받기](https://school.programmers.co.kr/learn/courses/30/lessons/92334)
       - [[PCCP 기출문제] 1번 / 붕대 감기](https://school.programmers.co.kr/learn/courses/30/lessons/250137)
@@ -32,6 +34,7 @@
       - [숫자 문자열과 영단어](https://school.programmers.co.kr/learn/courses/30/lessons/81301)
       - [푸드 파이트 대회](https://school.programmers.co.kr/learn/courses/30/lessons/134240)
       - [가장 가까운 같은 글자](https://school.programmers.co.kr/learn/courses/30/lessons/142086)
+    </details>
 
 ## Links
 - [programmers](https://school.programmers.co.kr/learn/challenges?order=acceptance_asc)
