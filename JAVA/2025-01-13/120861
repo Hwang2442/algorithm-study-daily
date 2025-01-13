@@ -1,0 +1,74 @@
+import java.util.*;
+
+public class Main {
+    public static void main(String[] args) {
+    }
+}
+    class Solution {
+        public int[] solution(String[] keyinput, int[] board) {
+
+            int[] answer = new int[2];
+            int a = board[0]/2;
+            int b = board[1]/2;
+            for(String key : keyinput)
+            {
+                if (key.equals("left"))
+                {
+                    answer[0] -= 1;
+                    if (Math.abs(answer[0]) >= a+1)
+                    {
+                        if (answer[0] > 0) {
+                            answer[0] = a;
+                        }
+                        else
+                        {
+                            answer[0] = -a;
+                        }
+                    }
+                }
+                else if (key.equals("right"))
+                {
+                    answer[0] += 1;
+                    if (Math.abs(answer[0]) >= a+1)
+                    {
+                        if (answer[0] > 0) {
+                            answer[0] = a;
+                        }
+                        else
+                        {
+                            answer[0] = -a;
+                        }
+                    }
+                }
+                else if (key.equals("up"))
+                {
+                    answer[1] += 1;
+                    if (Math.abs(answer[1]) >= b+1)
+                    {
+                        if (answer[1] > 0) {
+                            answer[1] = b;
+                        }
+                        else
+                        {
+                            answer[1] = -b;
+                        }
+                    }
+                }
+                else if (key.equals("down"))
+                {
+                    answer[1] -= 1;
+                    if (Math.abs(answer[1]) >= b+1)
+                    {
+                        if (answer[1] > 0) {
+                            answer[1] = b;
+                        }
+                        else
+                        {
+                            answer[1] = -b;
+                        }
+                    }
+                }
+            }
+            return answer;
+        }
+    }
