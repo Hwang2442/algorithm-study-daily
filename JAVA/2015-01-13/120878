@@ -1,0 +1,35 @@
+import java.util.*;
+
+public class Main {
+    public static void main(String[] args) {
+    }
+}
+    class Solution {
+        public int solution(int a, int b) {
+            int answer = 0;
+
+            int c = gcd(a,b);
+
+            int d = b/c;
+
+            if ((d % 2 == 0) && (d % 5))
+            {
+                answer = 1;
+            }
+            else
+            {
+                answer = 2;
+            }
+            return answer;
+        }
+
+        public int gcd(int a, int b)
+        {
+            if (a % b == 0)
+            {
+                return b;
+            }
+            gcd(b, a  % b);
+        }
+    }
+}
