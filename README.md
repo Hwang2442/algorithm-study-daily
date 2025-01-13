@@ -13,6 +13,7 @@
       
       - [연속된 수의 합](https://school.programmers.co.kr/learn/courses/30/lessons/120923)
       - [겹치는 선분의 길이](https://school.programmers.co.kr/learn/courses/30/lessons/120876)
+      - [유한소수 판별하기](https://school.programmers.co.kr/learn/courses/30/lessons/120878)
 
     </details>
     <details>
