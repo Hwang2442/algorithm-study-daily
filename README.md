@@ -46,6 +46,32 @@
       - [가장 가까운 같은 글자](https://school.programmers.co.kr/learn/courses/30/lessons/142086)
 
     </details>
+    <details>
+      <summary>Level 2</summary>
+      
+      - [호텔 대실](https://school.programmers.co.kr/learn/courses/30/lessons/155651)
+      - [마법의 엘리베이터](https://school.programmers.co.kr/learn/courses/30/lessons/148653)
+      - [땅따먹기](https://school.programmers.co.kr/learn/courses/30/lessons/12913)
+      - [주식가격](https://school.programmers.co.kr/learn/courses/30/lessons/42584)
+      - [롤케이크 자르기](https://school.programmers.co.kr/learn/courses/30/lessons/132265)
+      - [전화번호 목록](https://school.programmers.co.kr/learn/courses/30/lessons/42577)
+      - [프로세스](https://school.programmers.co.kr/learn/courses/30/lessons/42587)
+      - [기능개발](https://school.programmers.co.kr/learn/courses/30/lessons/42586)
+      - [피로도](https://school.programmers.co.kr/learn/courses/30/lessons/87946)
+      - [행렬의 곱셈](https://school.programmers.co.kr/learn/courses/30/lessons/12949)
+      - [의상](https://school.programmers.co.kr/learn/courses/30/lessons/42578)
+      - [할인 행사](https://school.programmers.co.kr/learn/courses/30/lessons/131127)
+      - [예상 대진표](https://school.programmers.co.kr/learn/courses/30/lessons/12985)
+      - [멀리 뛰기](https://school.programmers.co.kr/learn/courses/30/lessons/12914)
+      - [귤 고르기](https://school.programmers.co.kr/learn/courses/30/lessons/138476)
+      - [카펫](https://school.programmers.co.kr/learn/courses/30/lessons/42842)
+      - [짝지어 제거하기](https://school.programmers.co.kr/learn/courses/30/lessons/12973)
+      - [다음 큰 숫자](https://school.programmers.co.kr/learn/courses/30/lessons/12911)
+      - [숫자의 표현](https://school.programmers.co.kr/learn/courses/30/lessons/12924)
+      - [올바른 괄호](https://school.programmers.co.kr/learn/courses/30/lessons/12909)
+      - [JadenCase 문자열 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/12951)
+
+    </details>
 
 ## Links
 - [programmers](https://school.programmers.co.kr/learn/challenges?order=acceptance_asc)
