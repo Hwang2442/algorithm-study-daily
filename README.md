@@ -15,6 +15,7 @@
       - [겹치는 선분의 길이](https://school.programmers.co.kr/learn/courses/30/lessons/120876)
       - [유한소수 판별하기](https://school.programmers.co.kr/learn/courses/30/lessons/120878)
       - [캐릭터의 좌표](https://school.programmers.co.kr/learn/courses/30/lessons/120861)
+      - [최빈값 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/120812)
 
     </details>
     <details>
