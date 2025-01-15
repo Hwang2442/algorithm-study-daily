@@ -1,0 +1,32 @@
+import java.util.*;
+
+public class App {
+    public static void main(String[] args) throws Exception {
+        
+    }
+
+    public int solution(int[] array) {
+        int maxCount = 0;
+        int answer = 0
+        
+        Map<Integer, Integer> num = new HashMap<>();
+
+        for(int number : array) {
+            int count = num.getOrDefault(number, 0) + 1;
+
+            if(count > maxCount) {
+                maxCount = count;
+                answer = number;
+            }
+
+            else if(count == maxCount) {
+                answer = -1;
+            }
+
+            num.put(number, count);
+        }
+
+        return answer;
+    }
+
+}
