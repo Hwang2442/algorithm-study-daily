@@ -21,6 +21,7 @@
       - [다음에 올 숫자](https://school.programmers.co.kr/learn/courses/30/lessons/120924)
       - [[PCCE 기출문제] 5번 / 심폐소생술](https://school.programmers.co.kr/learn/courses/30/lessons/340203)
       - [전국 대회 선발 고사](https://school.programmers.co.kr/learn/courses/30/lessons/181851)
+      - [코드 처리하기](https://school.programmers.co.kr/learn/courses/30/lessons/181932)
 
     </details>
     <details>
