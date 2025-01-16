@@ -11,11 +11,16 @@
     <details>
       <summary>Level 0</summary>
       
+      - [옹알이 (1)](https://school.programmers.co.kr/learn/courses/30/lessons/120956)
+      - [정수를 나선형으로 배치하기](https://school.programmers.co.kr/learn/courses/30/lessons/181832)
       - [연속된 수의 합](https://school.programmers.co.kr/learn/courses/30/lessons/120923)
       - [겹치는 선분의 길이](https://school.programmers.co.kr/learn/courses/30/lessons/120876)
       - [유한소수 판별하기](https://school.programmers.co.kr/learn/courses/30/lessons/120878)
       - [캐릭터의 좌표](https://school.programmers.co.kr/learn/courses/30/lessons/120861)
       - [최빈값 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/120812)
+      - [다음에 올 숫자](https://school.programmers.co.kr/learn/courses/30/lessons/120924)
+      - [[PCCE 기출문제] 5번 / 심폐소생술](https://school.programmers.co.kr/learn/courses/30/lessons/340203)
+      - [전국 대회 선발 고사](https://school.programmers.co.kr/learn/courses/30/lessons/181851)
 
     </details>
     <details>
@@ -45,6 +50,9 @@
       - [숫자 문자열과 영단어](https://school.programmers.co.kr/learn/courses/30/lessons/81301)
       - [푸드 파이트 대회](https://school.programmers.co.kr/learn/courses/30/lessons/134240)
       - [가장 가까운 같은 글자](https://school.programmers.co.kr/learn/courses/30/lessons/142086)
+      - [최소직사각형](https://school.programmers.co.kr/learn/courses/30/lessons/86491)
+      - [예산](https://school.programmers.co.kr/learn/courses/30/lessons/12982)
+      - [삼총사](https://school.programmers.co.kr/learn/courses/30/lessons/131705)
 
     </details>
     <details>
