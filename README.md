@@ -23,6 +23,7 @@
       - [전국 대회 선발 고사](https://school.programmers.co.kr/learn/courses/30/lessons/181851)
       - [코드 처리하기](https://school.programmers.co.kr/learn/courses/30/lessons/181932)
       - [그림 확대](https://school.programmers.co.kr/learn/courses/30/lessons/181836)
+      - [저주의 숫자 3](https://school.programmers.co.kr/learn/courses/30/lessons/120871)
 
     </details>
     <details>
