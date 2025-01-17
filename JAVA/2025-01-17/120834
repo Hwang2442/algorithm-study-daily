@@ -1,0 +1,28 @@
+import java.util.*;
+
+public class Main {
+    public static void main(String[] args) {
+    }
+}
+    class Solution {
+        public String solution(int age) {
+            String answer = "";
+            String[] result = new String[]{"a","b","c","d","e","f","g","h","i","j"};
+            String[] ageNum = (age+"").split("");
+
+            for (int i = 0; i < ageNum.length;i++)
+            {
+                int a = Integer.parseInt(ageNum[i]);
+                for (int j = 0; j < result.length; j++)
+                {
+
+                    if (a == j)
+                    {
+                        answer += result[j];
+                        break;
+                    }
+                }
+            }
+            return answer;
+        }
+      }
