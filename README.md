@@ -24,6 +24,7 @@
       - [코드 처리하기](https://school.programmers.co.kr/learn/courses/30/lessons/181932)
       - [그림 확대](https://school.programmers.co.kr/learn/courses/30/lessons/181836)
       - [저주의 숫자 3](https://school.programmers.co.kr/learn/courses/30/lessons/120871)
+      - [외계행성의 나이](https://school.programmers.co.kr/learn/courses/30/lessons/120834)
 
     </details>
     <details>
