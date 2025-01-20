@@ -83,6 +83,7 @@
       - [숫자의 표현](https://school.programmers.co.kr/learn/courses/30/lessons/12924)
       - [올바른 괄호](https://school.programmers.co.kr/learn/courses/30/lessons/12909)
       - [JadenCase 문자열 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/12951)
+      - [더 맵게](https://school.programmers.co.kr/learn/courses/30/lessons/42626)
 
     </details>
 
