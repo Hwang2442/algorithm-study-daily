@@ -1,0 +1,31 @@
+import java.sql.Array;
+import java.util.*;
+
+public class Main {
+    public static void main(String[] args) {
+    }
+}
+    class Solution {
+        public int[] solution(int[][] score) {
+
+            int[] scoreRank = new int[score.length];
+            int[] ranks = new int[score.length];
+
+            for (int i = 0; i < score.length; i++)
+            {
+                scoreRank[i] = ((score[i][0] + score[i][1]));
+            }
+
+           for (int i = 0; i < scoreRank.length; i++)
+           {
+               int rank = 1;
+               for (int j = 0; j < scoreRank.length; j++)
+               {
+                   if (scoreRank[i] < scoreRank[j]) rank++;
+               }
+               ranks[i] = rank;
+           }
+
+            return ranks;
+        }
+      }
