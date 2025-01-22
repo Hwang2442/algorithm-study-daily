@@ -1,0 +1,68 @@
+class Solution {
+    public String[] solution(String[] quiz) {
+     String[] answer = new String[quiz.length];
+            for (int i = 0; i < quiz.length; i++)
+            {
+                int a = 0;
+                String[] s = quiz[i].split(" ");
+                if (s[1].equals("-"))
+                {
+                    a = Integer.parseInt(s[0]) - Integer.parseInt(s[2]);
+                    System.out.println(a);
+                    if (s[4] == "-")
+                    {
+                        if (a == -Integer.parseInt(s[5]))
+                        {
+                            answer[i] = "O";
+                        }
+                        else
+                        {
+                            answer[i] = "X";
+                        }
+                    }
+                    else
+                    {
+                        if (a == Integer.parseInt(s[4]))
+                        {
+                            answer[i] = "O";
+                        }
+                        else
+                        {
+                            answer[i] = "X";
+                        }
+                     
+                    }
+
+                }
+                else
+                {
+                    a = Integer.parseInt(s[0]) + Integer.parseInt(s[2]);
+                    if (s[4] == "-")
+                    {
+                        if (a == -Integer.parseInt(s[5]))
+                        {
+                            answer[i] = "O";
+                        }
+                        else
+                        {
+                            answer[i] = "X";
+                        }
+                    }
+                    else
+                    {
+                        a = Integer.parseInt(s[0]) + Integer.parseInt(s[2]);
+                        if (a == Integer.parseInt(s[4]))
+                        {
+                            answer[i] = "O";
+                        }
+                        else
+                        {
+                            answer[i] = "X";
+                        }
+                    }
+                }
+
+            }
+            return answer;
+    }
+}
