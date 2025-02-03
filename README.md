@@ -28,6 +28,7 @@
       - [종이 자르기](https://school.programmers.co.kr/learn/courses/30/lessons/120922)
       - [등수 매기기](https://school.programmers.co.kr/learn/courses/30/lessons/120882)
       - [OX퀴즈](https://school.programmers.co.kr/learn/courses/30/lessons/120907)
+      - [치킨 쿠폰](https://school.programmers.co.kr/learn/courses/30/lessons/120884)
 
     </details>
     <details>
