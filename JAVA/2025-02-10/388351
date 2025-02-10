@@ -1,0 +1,29 @@
+class Solution {
+    public int solution(int[] schedules, int[][] timelogs, int startday) {
+        int answer = 0;
+        int day = startday;
+        for (int i = 0; i < schedules.length; i++)
+        {
+            boolean allTime = true;
+            int minSchedule = schedules[i] / 100;
+            int maxSchedule = schedules[i]  % 100;
+            int success = minSchedule * 60 + maxSchedule + 10;
+
+            for (int j = 0; j < 7; j++)
+            {
+                int dDay = (day -1 + j) % 7;
+                if (dDay == 5 || dDay == 6) continue;
+                
+                int time = ((timelogs[i][j] / 100) * 60) + (timelogs[i][j] % 100); 
+
+                if (time > success)
+                {
+                    allTime = false;
+                    break;
+                }
+            }
+            if (allTime) answer++;
+        }
+        return answer;
+    }
+}
