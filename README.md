@@ -63,6 +63,7 @@
       - [최소직사각형](https://school.programmers.co.kr/learn/courses/30/lessons/86491)
       - [예산](https://school.programmers.co.kr/learn/courses/30/lessons/12982)
       - [삼총사](https://school.programmers.co.kr/learn/courses/30/lessons/131705)
+      - [유연근무제](https://school.programmers.co.kr/learn/courses/30/lessons/388351)
 
     </details>
     <details>
