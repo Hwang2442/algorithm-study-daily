@@ -30,6 +30,7 @@
       - [OX퀴즈](https://school.programmers.co.kr/learn/courses/30/lessons/120907)
       - [치킨 쿠폰](https://school.programmers.co.kr/learn/courses/30/lessons/120884)
       - [[PCCE 기출문제] 6번 / 물 부족](https://school.programmers.co.kr/learn/courses/30/lessons/340202)
+      - [직사각형 넓이 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/120860)
 
     </details>
     <details>
