@@ -1,0 +1,41 @@
+    public String[] solution(String[] record) {
+
+        List<List<String>> answer = new ArrayList<>();
+        Map<String, String> info = new HashMap<>();
+
+        for (int i = 0; i < record.length; i++)
+        {
+            String[] context = record[i].split(" ");
+
+            if (context[0].equals("Enter"))
+            {
+                info.put(context[1], context[2]);
+                ArrayList<String> rec = new ArrayList<>();
+                rec.add(context[1]);
+                rec.add("님이 들어왔습니다.");
+                answer.add(rec);
+
+            }
+            else if (context[0].equals("Leave"))
+            {
+                //info.put(context[1],context[2]);
+                ArrayList<String> rec = new ArrayList<>();
+                rec.add(context[1]);
+                rec.add("님이 나갔습니다.");
+                answer.add(rec);
+
+            }
+            else
+            {
+                info.replace(context[1], context[2]);
+
+            }
+        }
+
+        String[] result = new String[answer.size()];
+        for (int i = 0; i < answer.size(); i++)
+        {
+            result[i] = info.get(answer.get(i).get(0))  + answer.get(i).get(1);
+        }
+        return result;
+    }
