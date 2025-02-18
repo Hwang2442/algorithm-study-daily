@@ -33,6 +33,7 @@
       - [직사각형 넓이 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/120860)
       - [특이한 정렬](https://school.programmers.co.kr/learn/courses/30/lessons/120880)
       - [[PCCE 기출문제] 2번 / 피타고라스의 정리](https://school.programmers.co.kr/learn/courses/30/lessons/250132)
+      - [외계어 사전](https://school.programmers.co.kr/learn/courses/30/lessons/120869)
 
     </details>
     <details>
