@@ -97,6 +97,7 @@
       - [택배상자](https://school.programmers.co.kr/learn/courses/30/lessons/131704)
       - [오픈채팅방](https://school.programmers.co.kr/learn/courses/30/lessons/42888)
       - [영어 끝말잇기](https://school.programmers.co.kr/learn/courses/30/lessons/12981)
+      - [게임 맵 최단거리](https://school.programmers.co.kr/learn/courses/30/lessons/1844)
 
     </details>
     <details>
