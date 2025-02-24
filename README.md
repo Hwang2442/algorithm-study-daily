@@ -34,6 +34,7 @@
       - [특이한 정렬](https://school.programmers.co.kr/learn/courses/30/lessons/120880)
       - [[PCCE 기출문제] 2번 / 피타고라스의 정리](https://school.programmers.co.kr/learn/courses/30/lessons/250132)
       - [외계어 사전](https://school.programmers.co.kr/learn/courses/30/lessons/120869)
+      - [문자열 밀기](https://school.programmers.co.kr/learn/courses/30/lessons/120921)
 
     </details>
     <details>
