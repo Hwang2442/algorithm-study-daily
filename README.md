@@ -35,6 +35,7 @@
       - [[PCCE 기출문제] 2번 / 피타고라스의 정리](https://school.programmers.co.kr/learn/courses/30/lessons/250132)
       - [외계어 사전](https://school.programmers.co.kr/learn/courses/30/lessons/120869)
       - [문자열 밀기](https://school.programmers.co.kr/learn/courses/30/lessons/120921)
+      - [배열 만들기 2](https://school.programmers.co.kr/learn/courses/30/lessons/181921)
 
     </details>
     <details>
