@@ -26,7 +26,7 @@ int solution(int cacheSize, vector<string> cities)
 		{
 			answer++;
 
-			vector<string> temp(cacheOrder.size());
+			vector<string> temp;
 			while (!cacheOrder.empty())
 			{
 				string a = cacheOrder.front();
