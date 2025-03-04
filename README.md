@@ -37,6 +37,7 @@
       - [문자열 밀기](https://school.programmers.co.kr/learn/courses/30/lessons/120921)
       - [배열 만들기 2](https://school.programmers.co.kr/learn/courses/30/lessons/181921)
       - [안전지대](https://school.programmers.co.kr/learn/courses/30/lessons/120866)
+      - [다항식 더하기](https://school.programmers.co.kr/learn/courses/30/lessons/120863)
 
     </details>
     <details>
