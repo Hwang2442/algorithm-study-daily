@@ -1,0 +1,30 @@
+public String solution(String polynomial) {
+       
+        int xCount = 0;
+        int number = 0;
+        
+        String[] terms = polynomial.split(" \\+ ");  // Correctly split by ' + '
+        
+        for (String term : terms) {
+            if (term.equals("x")) {
+                xCount += 1;
+            } else if (term.contains("x")) {
+                xCount += Integer.parseInt(term.replace("x", ""));
+            } else {
+                number += Integer.parseInt(term);
+            }
+        }
+
+        String answer = "";
+        if (xCount > 0) {
+            answer += (xCount == 1) ? "x" : xCount + "x";
+        }
+        if (number > 0) {
+            if (!answer.isEmpty()) {
+                answer += " + ";
+            }
+            answer += number;
+        }
+
+        return answer.isEmpty() ? "0" : answer;
+    }
