@@ -1,0 +1,27 @@
+class Solution {
+    public long solution(int n, int[] works) {
+        long answer = 0;
+
+        PriorityQueue<Integer> queue = new PriorityQueue<>(Collections.reverseOrder());
+
+        for (int i = 0; i < works.length; i++)
+        {
+            queue.offer(works[i]);
+        }
+
+        while(n > 0)
+        {
+            int work = queue.poll();
+            if (work == 0) break;
+            work -= 1;
+            queue.offer(work);
+            n -= 1;
+        }
+
+        for (int work  : queue)
+        {
+            answer += work * work;
+        }
+        return answer;
+    }
+}
