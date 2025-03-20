@@ -1,0 +1,30 @@
+import java.util.*;
+
+class Solution {
+    public List<Integer> solution(String s) {
+
+        s= s.substring(2, s.length()-2).replace("},{","-");
+
+        String[] Arr = s.split("-");
+
+        Arrays.sort(Arr, Comparator.comparingInt(String :: length));
+
+
+        ArrayList<Integer> list = new ArrayList<>();
+
+        for (int i = 0; i < Arr.length; i++)
+        {
+            String[] sArr = Arr[i].split(",");
+            for (int j =0; j < sArr.length; j++)
+            {
+                int num = Integer.parseInt(sArr[j]);
+                if (!list.contains(num))
+                {
+                    list.add(num);
+                }
+            }
+            
+        }
+        return list;
+        }
+}
