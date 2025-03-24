@@ -1,0 +1,23 @@
+class Solution {
+    public int solution(String my_string) {
+        int answer = 0;
+        String[] my = my_string.split(" ");
+        answer += Integer.valueOf(my[0]);
+        for (int i = 1; i < my.length-1; i++)
+        {
+           if (my[i].equals("+"))
+           {
+               answer += Integer.valueOf(my[i+1]);
+           }
+           else if (my[i].equals("-"))
+           {
+               answer -= Integer.valueOf(my[i+1]);
+           }
+           else
+           {
+               continue;
+           }
+        }
+        return answer;
+    }
+}
