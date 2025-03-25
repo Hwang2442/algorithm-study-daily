@@ -1,0 +1,34 @@
+import java.util.*;
+class Solution {
+    public long solution(int n, int[] times) {
+        long answer = 0;
+        
+        Arrays.sort(times);
+        long min = 1;
+        long max = (long)times[times.length-1] * (long)n;
+        
+        while (min <= max)
+        {
+            long value;
+            long sum = 0;
+            value = (min+max) / 2;
+        
+            for (int time : times)
+            {
+                sum += value/time;
+            }
+            
+            if (sum < n)
+            {
+                min = value+1;
+            }
+            else
+            {
+                max = value -1;
+                answer= value;
+            }
+        }
+
+        return answer;
+    }
+}
