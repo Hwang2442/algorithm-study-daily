@@ -116,6 +116,7 @@
       - [정수 삼각형](https://school.programmers.co.kr/learn/courses/30/lessons/43105)
       - [이중우선순위큐](https://school.programmers.co.kr/learn/courses/30/lessons/42628)
       - [야근 지수](https://school.programmers.co.kr/learn/courses/30/lessons/12927)
+      - [입국심사](https://school.programmers.co.kr/learn/courses/30/lessons/43238)
     </details>
 
 ## Links
