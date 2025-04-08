@@ -42,6 +42,7 @@
       - [k의 개수](https://school.programmers.co.kr/learn/courses/30/lessons/120887)
       - [문자열 계산하기](https://school.programmers.co.kr/learn/courses/30/lessons/120902)
       - [무작위로 K개의 수 뽑기](https://school.programmers.co.kr/learn/courses/30/lessons/181858)
+      - [분수의 덧셈](https://school.programmers.co.kr/learn/courses/30/lessons/120808)
 
     </details>
     <details>
