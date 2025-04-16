@@ -1,0 +1,16 @@
+public class Main {
+    public int solution(int n) {
+        int ans = 1;
+
+        while (n /2 != 0)
+        {
+            ans += n %2;
+            n /=2;
+        }
+
+        return ans;
+    }
+}
+
+//아이언 슈트 착용 시 건전시 사용량 x
+// 점프 시에는 k 만큼 건건지 사용량
