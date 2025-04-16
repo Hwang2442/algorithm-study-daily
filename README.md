@@ -44,6 +44,7 @@
       - [무작위로 K개의 수 뽑기](https://school.programmers.co.kr/learn/courses/30/lessons/181858)
       - [분수의 덧셈](https://school.programmers.co.kr/learn/courses/30/lessons/120808)
       - [점의 위치 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/120841)
+      - [대소문자 바꿔서 출력하기](https://school.programmers.co.kr/learn/courses/30/lessons/181949)
 
     </details>
     <details>
