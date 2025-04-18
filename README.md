@@ -123,6 +123,7 @@
       - [이중우선순위큐](https://school.programmers.co.kr/learn/courses/30/lessons/42628)
       - [야근 지수](https://school.programmers.co.kr/learn/courses/30/lessons/12927)
       - [입국심사](https://school.programmers.co.kr/learn/courses/30/lessons/43238)
+      - [순위](https://school.programmers.co.kr/learn/courses/30/lessons/49191)
     </details>
 
 ## Links
