@@ -48,6 +48,7 @@
       - [배열 조각하기](https://school.programmers.co.kr/learn/courses/30/lessons/181893)
       - [날짜 비교하기](https://school.programmers.co.kr/learn/courses/30/lessons/181838)
       - [평행](https://school.programmers.co.kr/learn/courses/30/lessons/120875)
+      - [구슬을 나누는 경우의 수](https://school.programmers.co.kr/learn/courses/30/lessons/120840)
 
     </details>
     <details>
