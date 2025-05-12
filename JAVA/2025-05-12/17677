@@ -1,0 +1,73 @@
+import java.util.*;
+
+
+public class Main {
+    public int solution(String str1, String str2) {
+        int answer = 0;
+
+        str1 = str1.toLowerCase();
+        str2 = str2.toLowerCase();
+
+        ArrayList<String> str1List = new ArrayList<>();
+        ArrayList<String> str2List = new ArrayList<>();
+
+        ArrayList<String> union = new ArrayList<>();
+        ArrayList<String> intersection = new ArrayList<>();
+
+
+        for (int i = 0; i < str1.length()-1; i++)
+        {
+           char a = str1.charAt(i);
+           char b = str1.charAt(i+1);
+
+           if (Character.isLetter(a) && Character.isLetter(b))
+           {
+               String ab = Character.toString(a) + Character.toString(b);
+               str1List.add(ab);
+           }
+        }
+
+        for (int i = 0; i < str2.length(); i++)
+        {
+            char a = str2.charAt(i+1);
+            char b = str2.charAt(i+1);
+
+            if (Character.isLetter(a) && Character.isLetter(b))
+            {
+                String ab = Character.toString(a) + Character.toString(b);
+                str2List.add(ab);
+            }
+        }
+
+        Collections.sort(str1List);
+        Collections.sort(str2List);
+
+        for (String s: str1List)
+        {
+            if (str2List.remove(s)) {
+                intersection.add(s);
+            }
+            union.add(s);
+        }
+
+        double count  = 0;
+        for (String s : str2List)
+        {
+            union.add(s);
+        }
+
+        if (union.size() == 1)
+        {
+            count = 1;
+        }
+        else
+        {
+            count = (double)intersection.size() / (double)union.size();
+        }
+
+        answer = (int) (count * 65536);
+
+
+        return answer;
+    }
+}
