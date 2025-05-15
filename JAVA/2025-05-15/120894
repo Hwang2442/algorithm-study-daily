@@ -1,0 +1,17 @@
+public class Main {
+    public long solution(String numbers) {
+
+        String[] numberList = new String[]{"zero", "one", "two", "three", "four", "five", "six", "seven", "eight", "nine"};
+        long answer = 0;
+        String result = "";
+
+
+            for (int i = 0; i < numberList.length; i++)
+            {
+                numbers = numbers.replaceAll(numberList[i], String.valueOf(i));
+            }
+
+            answer = Long.parseLong(numbers);
+        return answer;
+    }
+}
