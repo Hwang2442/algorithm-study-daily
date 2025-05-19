@@ -50,6 +50,7 @@
       - [평행](https://school.programmers.co.kr/learn/courses/30/lessons/120875)
       - [구슬을 나누는 경우의 수](https://school.programmers.co.kr/learn/courses/30/lessons/120840)
       - [영어가 싫어요](https://school.programmers.co.kr/learn/courses/30/lessons/120894)
+      - [합성수 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/120846)
 
     </details>
     <details>
