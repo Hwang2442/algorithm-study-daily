@@ -51,6 +51,7 @@
       - [구슬을 나누는 경우의 수](https://school.programmers.co.kr/learn/courses/30/lessons/120840)
       - [영어가 싫어요](https://school.programmers.co.kr/learn/courses/30/lessons/120894)
       - [합성수 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/120846)
+      - [왼쪽 오른쪽](https://school.programmers.co.kr/learn/courses/30/lessons/181890)
 
     </details>
     <details>
