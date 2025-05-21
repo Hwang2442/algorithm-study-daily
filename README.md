@@ -52,6 +52,7 @@
       - [영어가 싫어요](https://school.programmers.co.kr/learn/courses/30/lessons/120894)
       - [합성수 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/120846)
       - [왼쪽 오른쪽](https://school.programmers.co.kr/learn/courses/30/lessons/181890)
+      - [조건 문자열](https://school.programmers.co.kr/learn/courses/30/lessons/181934)
 
     </details>
     <details>
