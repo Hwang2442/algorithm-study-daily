@@ -126,6 +126,7 @@
       - [점프와 순간 이동](https://school.programmers.co.kr/learn/courses/30/lessons/12980)
       - [[1차] 뉴스 클러스터링](https://school.programmers.co.kr/learn/courses/30/lessons/17677)
       - [가장 큰 수 ](https://school.programmers.co.kr/learn/courses/30/lessons/42746)
+      - [다리를 지나는 트럭](https://school.programmers.co.kr/learn/courses/30/lessons/42583)
 
     </details>
     <details>
