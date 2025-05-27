@@ -55,6 +55,7 @@
       - [조건 문자열](https://school.programmers.co.kr/learn/courses/30/lessons/181934)
       - [모스부호 (1)](https://school.programmers.co.kr/learn/courses/30/lessons/120838)
       - [2의 영역](https://school.programmers.co.kr/learn/courses/30/lessons/181894)
+      - [리스트 자르기](https://school.programmers.co.kr/learn/courses/30/lessons/181897)
 
     </details>
     <details>
