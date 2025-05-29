@@ -128,6 +128,7 @@
       - [[1차] 뉴스 클러스터링](https://school.programmers.co.kr/learn/courses/30/lessons/17677)
       - [가장 큰 수 ](https://school.programmers.co.kr/learn/courses/30/lessons/42746)
       - [다리를 지나는 트럭](https://school.programmers.co.kr/learn/courses/30/lessons/42583)
+      - [연속 부분 수열 합의 개수](https://school.programmers.co.kr/learn/courses/30/lessons/131701)
 
     </details>
     <details>
