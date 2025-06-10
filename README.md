@@ -130,6 +130,7 @@
       - [다리를 지나는 트럭](https://school.programmers.co.kr/learn/courses/30/lessons/42583)
       - [연속 부분 수열 합의 개수](https://school.programmers.co.kr/learn/courses/30/lessons/131701)
       - [최솟값 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/12941)
+      - [이진 변환 반복하기](https://school.programmers.co.kr/learn/courses/30/lessons/70129)
 
     </details>
     <details>
