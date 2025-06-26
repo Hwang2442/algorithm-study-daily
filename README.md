@@ -132,6 +132,7 @@
       - [연속 부분 수열 합의 개수](https://school.programmers.co.kr/learn/courses/30/lessons/131701)
       - [최솟값 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/12941)
       - [이진 변환 반복하기](https://school.programmers.co.kr/learn/courses/30/lessons/70129)
+      - [괄호 회전하기](https://school.programmers.co.kr/learn/courses/30/lessons/76502)
 
     </details>
     <details>
