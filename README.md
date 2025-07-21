@@ -92,6 +92,7 @@
       - [유연근무제](https://school.programmers.co.kr/learn/courses/30/lessons/388351)
       - [[PCCE 기출문제] 9번 / 이웃한 칸](https://school.programmers.co.kr/learn/courses/30/lessons/250125)
       - [크기가 작은 부분 문자열](https://school.programmers.co.kr/learn/courses/30/lessons/147355)
+      - [문자열 나누기](https://school.programmers.co.kr/learn/courses/30/lessons/140108)
 
     </details>
     <details>
