@@ -134,6 +134,7 @@
       - [최솟값 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/12941)
       - [이진 변환 반복하기](https://school.programmers.co.kr/learn/courses/30/lessons/70129)
       - [괄호 회전하기](https://school.programmers.co.kr/learn/courses/30/lessons/76502)
+      - [서버 증설 횟수](https://school.programmers.co.kr/learn/courses/30/lessons/389479)
 
     </details>
     <details>
