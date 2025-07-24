@@ -136,6 +136,7 @@
       - [이진 변환 반복하기](https://school.programmers.co.kr/learn/courses/30/lessons/70129)
       - [괄호 회전하기](https://school.programmers.co.kr/learn/courses/30/lessons/76502)
       - [서버 증설 횟수](https://school.programmers.co.kr/learn/courses/30/lessons/389479)
+      - [뒤에 있는 큰 수 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/154539)
 
     </details>
     <details>
