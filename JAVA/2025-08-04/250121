@@ -1,0 +1,72 @@
+import java.util.*;
+
+class Solution {
+    static int number = 0;
+    static int sortNum = 0;
+    public int[][] solution(int[][] data, String ext, int val_ext, String sort_by) {
+        ArrayList<int[]> result = new ArrayList<>();
+
+        switch (ext)
+        {
+            case "code":
+                number = 0;
+                break;
+            case "date":
+                number = 1;
+                break;
+            case "maximum":
+                number = 2;
+                break;
+            case "remain":
+                number = 3;
+                break;
+            default:
+                number = 0;
+                break;
+        }
+
+        for (int i = 0; i < data.length; i++)
+        {
+            if (data[i][number] < val_ext)
+            {
+                result.add(new int[] {data[i][0],data[i][1], data[i][2],data[i][3]});
+            }
+        }
+
+        int[][] answer = new int[result.size()][4];
+
+        for (int i = 0; i < result.size(); i++)
+        {
+            answer[i] = result.get(i);
+        }
+
+
+        switch (sort_by)
+        {
+            case "code":
+                sortNum = 0;
+                break;
+            case "date":
+                sortNum = 1;
+                break;
+            case "maximum":
+                sortNum = 2;
+                break;
+            case "remain":
+                sortNum = 3;
+                break;
+            default:
+                sortNum = 0;
+                break;
+        }
+
+        Arrays.sort(answer, new Comparator<int[]>() {
+            @Override
+            public int compare(int[] o1, int[] o2) {
+                return o1[sortNum] - o2[sortNum];
+            }
+        });
+
+        return answer;
+    }
+}
