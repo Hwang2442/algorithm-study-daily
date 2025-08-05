@@ -57,6 +57,7 @@
       - [2의 영역](https://school.programmers.co.kr/learn/courses/30/lessons/181894)
       - [리스트 자르기](https://school.programmers.co.kr/learn/courses/30/lessons/181897)
       - [삼각형의 완성조건 (2)](https://school.programmers.co.kr/learn/courses/30/lessons/120868)
+      - [정사각형으로 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/181830)
 
     </details>
     <details>
