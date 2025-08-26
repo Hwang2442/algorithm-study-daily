@@ -96,6 +96,7 @@
       - [문자열 나누기](https://school.programmers.co.kr/learn/courses/30/lessons/140108)
       - [부족한 금액 계산하기](https://school.programmers.co.kr/learn/courses/30/lessons/82612)
       - [[PCCE 기출문제] 10번 / 데이터 분석](https://school.programmers.co.kr/learn/courses/30/lessons/250121)
+      - [[PCCE 기출문제] 10번 / 공원](https://school.programmers.co.kr/learn/courses/30/lessons/340198)
 
     </details>
     <details>
