@@ -97,6 +97,7 @@
       - [부족한 금액 계산하기](https://school.programmers.co.kr/learn/courses/30/lessons/82612)
       - [[PCCE 기출문제] 10번 / 데이터 분석](https://school.programmers.co.kr/learn/courses/30/lessons/250121)
       - [[PCCE 기출문제] 10번 / 공원](https://school.programmers.co.kr/learn/courses/30/lessons/340198)
+      - [콜라 문제](https://school.programmers.co.kr/learn/courses/30/lessons/132267)
 
     </details>
     <details>
